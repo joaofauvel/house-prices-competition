@@ -12,6 +12,6 @@ Kaggle competition repo.
 - Intall dependencies  
 	`pip install -r requirements.txt`
 - Create the IPyKernel in the virtual environment  
-	`python -m ipykernel install --name=mba-ds`
+	`python -m ipykernel install --name=house-prices-competition`
 - Start up Jupyter Lab or the IDE of your choice and select the created kernel  
 	`jupyter lab`
