@@ -1,7 +1,11 @@
 {
+	"CentralAir": {
+		"N": "0",
+		"Y": "1"
+	},
     "Street": {
-        "Pave": "1",
-        "Grvl": "0"
+        "Pave": "2",
+        "Grvl": "1"
     },
     "Alley": {
         "NAcc": "0",
@@ -9,16 +13,16 @@
         "Grvl": "1"
     },
     "LotShape": {
-        "IR3": "0",
-        "IR2": "1",
-        "IR1": "2",
-        "Reg": "3"
+        "IR3": "1",
+        "IR2": "2",
+        "IR1": "3",
+        "Reg": "4"
     },
     "LandContour": {
-        "Low": "0",
-        "HLS": "1",
-        "Bnk": "2",
-        "Lvl": "3"
+        "Low": "1",
+        "HLS": "2",
+        "Bnk": "3",
+        "Lvl": "4"
     },
     "Utilities": {
         "ELO": "0",
@@ -27,23 +31,23 @@
         "AllPub": "3"
     },
     "LandSlope": {
-        "Sev": "0",
-        "Mod": "1",
-        "Gtl": "2"
+        "Sev": "1",
+        "Mod": "2",
+        "Gtl": "3"
     },
     "ExterQual": {
-        "Po": "0",
-        "Fa": "1",
-        "TA": "2",
-        "Gd": "3",
-        "Ex": "4"
+        "Po": "1",
+        "Fa": "2",
+        "TA": "3",
+        "Gd": "4",
+        "Ex": "5"
     },
     "ExterCond": {
-        "Po": "0",
-        "Fa": "1",
-        "TA": "2",
-        "Gd": "3",
-        "Ex": "4"
+        "Po": "1",
+        "Fa": "2",
+        "TA": "3",
+        "Gd": "4",
+        "Ex": "5"
     },
     "BsmtQual": {
         "NBsmt": "0",
@@ -87,35 +91,35 @@
         "GLQ": "6"
     },
     "HeatingQC": {
-        "Po": "0",
-        "Fa": "1",
-        "TA": "2",
-        "Gd": "3",
-        "Ex": "4"
+        "Po": "1",
+        "Fa": "2",
+        "TA": "3",
+        "Gd": "4",
+        "Ex": "5"
     },
     "Electrical": {
-        "Mix": "0",
-        "FuseP": "1",
-        "FuseF": "2",
-        "FuseA": "3",
-        "SBrkr": "4"
+        "Mix": "1",
+        "FuseP": "2",
+        "FuseF": "3",
+        "FuseA": "4",
+        "SBrkr": "5"
     },
     "KitchenQual": {
-        "Po": "0",
-        "Fa": "1",
-        "TA": "2",
-        "Gd": "3",
-        "Ex": "4"
+        "Po": "1",
+        "Fa": "2",
+        "TA": "3",
+        "Gd": "4",
+        "Ex": "5"
     },
     "Functional": {
-        "Sal": "0",
-        "Sev": "1",
-        "Maj2": "2",
-        "Maj1": "3",
-        "Mod": "4",
-        "Min2": "5",
-        "Min1": "6",
-        "Typ": "7"
+        "Sal": "1",
+        "Sev": "2",
+        "Maj2": "3",
+        "Maj1": "4",
+        "Mod": "5",
+        "Min2": "6",
+        "Min1": "7",
+        "Typ": "8"
     },
     "FireplaceQu": {
         "NFp": "0",
